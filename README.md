@@ -4,11 +4,11 @@ Code repo for KodeCloud Challenges; CKA, CKS, etc/. See more detailed write-ups 
 ## Challenges
 - [Kubernetes Challenges](https://kodekloud.com/courses/kubernetes-challenges/)
     - Challenge 1: 
-        - Deploy the given architecture diagram for implmenting a Jekyll SSG (Complete)
+        - Deploy the given architecture diagram for implmenting a Jekyll SSG. <span style="color:green">Complete!</span>
     - Challenge 2: 
-        - Node Kubernetes cluster is broken! Troubleshoot, fix the cluster issues and then deploy the objects according to the given architecture diagram to unlock our Image Gallery! (Complete)
+        - Node Kubernetes cluster is broken! Troubleshoot, fix the cluster issues and then deploy the objects according to the given architecture diagram to unlock our Image Gallery! <span style="color:green">Complete!</span>
     - Challenge 3: 
-        - Deploy the given architecture to vote namespace (Complete)
+        - Deploy the given architecture to vote namespace. <span style="color:green">Complete!</span>
     - Challenge 4: 
 - [Kubernetes Challenges](https://kodekloud.com/courses/cks-challenges/)
     - Coming Soon!
