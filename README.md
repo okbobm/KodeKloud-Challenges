@@ -12,6 +12,16 @@ Code repo for KodeCloud Challenges; CKA, CKS, etc/. See more detailed write-ups 
     - Challenge 4: 
         - Build a highly available Redis Cluster based on the given architecture diagram. Complete!
 
-- [Kubernetes Challenges](https://kodekloud.com/courses/cks-challenges/)
-    - Coming Soon!
+- [Terraform Challenges](https://kodekloud.com/courses/terraform-challenges/)
+    - Challenge 1: 
+        - In this challenge we will deploy several Kubernetes resources using terraform. Complete!
+    - Challenge 2:
+    - Challenge 3:  
+
+- [Security Challenges](https://kodekloud.com/courses/cks-challenges/) - Coming Soon!
+    - Challenge 1: 
+    - Challenge 2:
+    - Challenge 3: 
+    - Challenge 4: 
+    - 
 
